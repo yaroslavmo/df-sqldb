@@ -40,7 +40,7 @@
     }
   ],
   "require":     {
-    "dreamfactory/df-database": "~0.9.4"
+    "dreamfactory/df-database": "~0.9.5"
   },
   "autoload":    {
     "psr-4": {
