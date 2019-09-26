@@ -33,6 +33,12 @@
   },
   "minimum-stability": "dev",
   "prefer-stable": true,
+  "repositories": [
+    {
+      "type": "vcs",
+      "url":  "https://github.com/yaroslavmo/df-database"
+    }
+  ],
   "require":     {
     "dreamfactory/df-database": "~0.9.4"
   },
